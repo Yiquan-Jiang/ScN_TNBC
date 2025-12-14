@@ -222,33 +222,9 @@ All statistical tests and results are exported to `output/statistics/statistical
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@article{YourLastName2024,
-  title={Chemotherapy-induced senescence reshapes the tumor immune microenvironment in triple-negative breast cancer},
-  author={Your Name and Collaborators},
-  journal={Journal Name},
-  year={2024},
-  doi={10.xxxx/xxxxx}
-}
-```
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@institution.edu]
-- **Institution**: [Your Institution]
+- **Email**: jiangyq@sysucc.org.cn
 
 ---
 

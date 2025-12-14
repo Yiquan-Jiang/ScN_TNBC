@@ -263,24 +263,9 @@ After running the analysis, key results will be summarized:
 
 ---
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-[Your paper citation here]
-```
-
----
-
-## License
-
-[Add license information]
-
----
 
 ## Contact
 
 For questions about the analysis code, please contact:
-- [Author name and email]
+- jiangyq@sysucc.org.cn
 
